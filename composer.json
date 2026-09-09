@@ -1,0 +1,9 @@
+{
+    "name": "leduckhuong/packagist-audit-poc",
+    "description": "Security audit PoC package - UI redress demo",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=8.1"
+    }
+}
